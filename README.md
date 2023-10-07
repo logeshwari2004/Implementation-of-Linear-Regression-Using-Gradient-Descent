@@ -86,19 +86,19 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 
 ## Output:
-##Profit Prediction:
+## Profit Prediction:
 ![271843574-a291c119-8fe4-46c6-877c-18c0b8e761ab](https://github.com/logeshwari2004/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/94211349/2bbca5cf-bbaa-4d02-bdd6-e872185fda05)
-##Compute Cost:
+## Compute Cost:
 ![271843594-c219e692-5cc8-4b76-8b23-f7845cc84149](https://github.com/logeshwari2004/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/94211349/219a6485-5573-4aaa-813c-bfe8dda5076e)
-##h(x) Value:
+## h(x) Value:
 ![271843622-e0aa8f1e-8c95-42b8-8024-e116a2ba5bb7](https://github.com/logeshwari2004/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/94211349/6ea32453-e41b-4d5e-9be1-cbf9239d2ab7)
-##Cost function using Gradient Descent Graph:
+## Cost function using Gradient Descent Graph:
 ![271843641-cc61d23f-5bf9-4b4d-80d0-3d4f9e5611d0](https://github.com/logeshwari2004/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/94211349/5c504178-7bc0-4a83-8367-dde3a2a13063)
-##Profit Prediction:
+## Profit Prediction:
 ![271843662-aea93272-9548-447e-b7c9-b71107a5285e](https://github.com/logeshwari2004/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/94211349/596fa99b-c350-490d-b3e6-93dafb473516)
-##Profit for the Population 35,000:
+## Profit for the Population 35,000:
 ![271843718-b2925b27-eb39-4731-9126-83232f711805](https://github.com/logeshwari2004/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/94211349/02bd16fa-d8e7-4241-a818-07db1c03cc4b)
-##Profit for the Population 70,000:
+## Profit for the Population 70,000:
 ![271843729-09755fed-be1f-4b5d-a865-4f411f600f42](https://github.com/logeshwari2004/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/94211349/40953989-1c1a-4a21-bc4e-48c6d4efd469)
 
 
